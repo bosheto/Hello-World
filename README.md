@@ -1,2 +1,2 @@
 # Hello-World
-Learning GitHub
+Hi Im Boris Gezkovski and this is me learning Github
